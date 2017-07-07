@@ -1,4 +1,4 @@
-# A small example to demonstrate a potential bug in the PCL PPFEstimation class.
+# A small example to demonstrate a potential bug in the PCL PPFRegistration class
 
 To compile go to the build directory with a terminal and execute 
 ```
