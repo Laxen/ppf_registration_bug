@@ -1,3 +1,0 @@
-/home/alex/Skola/Masters_Thesis/masters_thesis/ppf_bug/build/CMakeFiles/edit_cache.dir
-/home/alex/Skola/Masters_Thesis/masters_thesis/ppf_bug/build/CMakeFiles/rebuild_cache.dir
-/home/alex/Skola/Masters_Thesis/masters_thesis/ppf_bug/build/CMakeFiles/ppf_object_recognition.dir
